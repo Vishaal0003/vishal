@@ -32,6 +32,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("http://localhost:3000"),
   icons: { icon: "/vishal_defender_1.png" },
   title: "Vishal Kumar | SOC Analyst & Blue Team Specialist",
   description:
