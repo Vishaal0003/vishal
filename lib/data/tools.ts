@@ -26,13 +26,13 @@ export const tools: Tool[] = [
   },
   {
     id: "02",
-    title: "SOC Log Monitor",
-    tag: "[ AUTOMATION ]",
+    title: "Password Generator",
+    tag: "[ SECURITY TOOL ]",
     tagColor: "cyan",
     description:
-      "A lightweight log analysis script that parses syslog and auth.log files for suspicious patterns, failed logins, and brute-force indicators. Automates detection and sends real-time alerting notifications.",
-    stack: ["Python", "Bash", "Linux", "Regex"],
-    href: "https://github.com/Vishaal0003/soc-log-monitor",
+      "A secure, privacy-focused password generator built using HTML, CSS, and JavaScript. This tool generates strong passwords locally in your browser, no data is stored or transmitted. ",
+    stack: ["HTML5", "CSS3", "JavaScript"],
+    href: "https://github.com/Vishaal0003/Password-Generator",
     bgVariant: "grid",
   },
   {

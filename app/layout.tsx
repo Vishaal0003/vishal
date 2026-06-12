@@ -33,7 +33,7 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   icons: { icon: "/vishal_defender_1.png" },
-  title: "Vishal Kumar — SOC Analyst & Blue Team Specialist",
+  title: "Vishal Kumar | SOC Analyst & Blue Team Specialist",
   description:
     "SOC Analyst and cybersecurity defender based in Ranchi, Jharkhand, India. Specializing in threat detection, SIEM log analysis, phishing email triage, and security automations.",
   keywords: ["SOC Analyst", "Blue Team", "Threat Detection", "SIEM", "Splunk", "Wireshark", "Cybersecurity", "Incident Response", "MailDefender"],

@@ -232,11 +232,11 @@ function MatrixContent({
           >
             {hasHandle ? (
               <>
-                {line.text.split("D3ADSHOT")[0]}
+                {line.text.split("VISHAL")[0]}
                 <span style={{ color: "#00b0ff", textShadow: "0 0 20px rgba(0,176,255,0.8), 0 0 60px rgba(0,140,220,0.4)" }}>
-                  D3ADSHOT
+                  VISHAL
                 </span>
-                {line.text.split("D3ADSHOT")[1]}
+                {line.text.split("VISHAL")[1]}
               </>
             ) : (
               line.text
@@ -277,7 +277,7 @@ function PhotoPanel() {
         })}
 
         <Image
-          src="\electron.png"
+          src="/vishal_defender_1.png"
           alt="VISHAL KUMAR identity"
           fill
           unoptimized

@@ -154,7 +154,7 @@ function Tile({ tool, index, featured, stretch }: TileProps) {
         aria-hidden="true"
       >
         <Image
-          src="/electron.png.png"
+          src="/vishal_defender_hero.png"
           alt=""
           fill
           unoptimized
